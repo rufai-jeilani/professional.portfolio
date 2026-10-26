@@ -58,6 +58,5 @@ My interest in computers led me to the cybersecurity program at South-Western Ca
 
 ## Contact
 
-- **Location:** Columbus, Ohio
 - **Email:** [rjeilani@outlook.com](mailto:rjeilani@outlook.com)
 - **GitHub:** [rufai-jeilani](https://github.com/rufai-jeilani)
