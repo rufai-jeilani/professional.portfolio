@@ -10,7 +10,7 @@ My interest in computers led me to the cybersecurity program at South-Western Ca
 
 ## Professional Experience
 
-### Root Insurance — IT Specialist I
+### Root Insurance - IT Specialist I
 
 **Full-time: July 2025–Present | Internship: June 2024–July 2025**
 
@@ -21,7 +21,7 @@ My interest in computers led me to the cybersecurity program at South-Western Ca
 - Troubleshoot network connectivity, remote access, and general IT issues through root-cause analysis to minimize employee downtime.
 - Document support tasks, develop internal knowledge base processes, and manage incidents to maintain service standards.
 
-### Target — Fulfillment Expert
+### Target - Fulfillment Expert
 
 **November 2023–August 2025**
 
@@ -50,10 +50,10 @@ My interest in computers led me to the cybersecurity program at South-Western Ca
 
 ## Education
 
-**WGU School of Technology** — B.S. Cybersecurity and Information Assurance  
+**WGU School of Technology** - B.S. Cybersecurity and Information Assurance  
 2026–Present · In progress
 
-**South-Western Career Academy** — High School Cybersecurity Program  
+**South-Western Career Academy** - High School Cybersecurity Program  
 2023–2025
 
 ## Contact
